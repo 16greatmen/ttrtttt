@@ -287,8 +287,8 @@
             <button class="menu-toggle">☰</button>
             <div class="nav-links">
                 <a href="Jadwal Pelajran.html" class="nav-link">Jadwal</a>
-                <a href="materi.html" class="nav-link">Materi</a>
                 <a href="galeri.html" class="nav-link">Galeri</a>
+                <a href="materi.html" class="nav-link">Materi</a>
             </div>
         </nav>
     </header>
